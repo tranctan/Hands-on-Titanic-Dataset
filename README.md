@@ -1,4 +1,4 @@
-# CoderSchool---Lab01---Titanic
+# CoderSchool-Lab01-Titanic
 
 This is the first lab assignment of CoderSchool working on Titanic dataset. As suggested by our teacher, i mainly referenced the tutorial on Kaggle - [Interactive Data Science Tutorial](https://www.kaggle.com/helgejo/an-interactive-data-science-tutorial).
 
